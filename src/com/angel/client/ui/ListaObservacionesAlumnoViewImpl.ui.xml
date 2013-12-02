@@ -1,0 +1,51 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui" 
+	xmlns:p1="urn:import:com.google.gwt.user.cellview.client">
+	<ui:style>
+		.important {
+			font-weight: bold;
+		}
+		
+		.margenDerecho {
+			margin-right: 2em;
+		}
+	</ui:style>
+	<ui:with field="res" type="com.angel.client.imagenes2.Images" />
+	<g:HTMLPanel width="100%">
+		<g:DecoratorPanel>
+			<g:VerticalPanel>
+				<g:HorizontalPanel>
+					<g:HorizontalPanel>
+			<g:Button ui:field="addButton" text="add"/>
+			<g:Button ui:field="deleteButton" text="del" enabled="false"/>
+			<g:Button ui:field="updateButton" text="update" enabled="false"/>
+		</g:HorizontalPanel>
+					<g:Hyperlink text="OBSERVACIONES" targetHistoryToken="newHistoryToken" />
+
+					<g:PushButton>
+						<g:downFace image="{res.inserto3}"></g:downFace>
+						<g:upFace image="{res.delete}"></g:upFace>
+						<g:upHoveringFace image="{res.add}"></g:upHoveringFace>
+					</g:PushButton>
+					<g:PushButton text="push">
+					</g:PushButton>
+					<g:Button text="eee" />
+					<g:Image styleName="margenDerecho" resource="{res.inserto3}" />
+					<g:Image styleName="margenDerecho" resource="{res.delete}" />
+					<g:TextBox />
+					<g:Image resource="{res.refrescar}" />
+					<g:Image url="WEB-INF/classes/com/angel/client/imagenes/loading.gif"
+						width="20px" height="20px" />
+					<g:DisclosurePanel animationEnabled="true">
+						<g:header>Consultas</g:header>
+					</g:DisclosurePanel>
+				</g:HorizontalPanel>
+				<p1:DataGrid height="200px" ui:field="dataGrid" />
+				<p1:SimplePager location="CENTER" ui:field="pager" />
+				<g:Label text="New Label" ui:field="lastUpdatedLabel" />
+			</g:VerticalPanel>
+		</g:DecoratorPanel>
+
+	</g:HTMLPanel>
+</ui:UiBinder> 

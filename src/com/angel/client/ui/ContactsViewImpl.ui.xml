@@ -1,0 +1,22 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+		.important {
+			font-weight: bold;
+		}
+	</ui:style>
+	<g:HTMLPanel>
+		Hello,
+		
+		<g:DecoratorPanel>
+			<g:VerticalPanel>
+			<g:HorizontalPanel>
+			<g:Button ui:field="addButton" text="add"/>
+			<g:Button ui:field="deleteButton" text="del"/>
+		</g:HorizontalPanel>
+			<g:FlexTable ui:field="contactsTable"/>
+		</g:VerticalPanel>
+		</g:DecoratorPanel>
+	</g:HTMLPanel>
+</ui:UiBinder> 

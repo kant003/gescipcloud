@@ -1,0 +1,47 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+		.important {
+			font-weight: bold;
+		}
+	</ui:style>
+	<g:HTMLPanel>
+		Hello,
+		
+		<g:DecoratorPanel>
+			<g:VerticalPanel>
+			<g:Grid>
+				<g:row>
+					<g:customCell>
+						<g:Label text="firstName"/>
+					</g:customCell>
+					<g:customCell>
+						<g:TextBox ui:field="firstName"/>
+					</g:customCell>
+				</g:row>
+				<g:row>
+					<g:customCell>
+						<g:Label text="lastName"/>
+					</g:customCell>
+					<g:customCell>
+						<g:TextBox  ui:field="lastName"/>
+					</g:customCell>
+				</g:row>
+				<g:row>
+					<g:customCell>
+						<g:Label text="emailAddress"/>
+					</g:customCell>
+					<g:customCell>
+						<g:TextBox ui:field="emailAddress"/>
+					</g:customCell>
+				</g:row>
+			</g:Grid>
+		</g:VerticalPanel>
+		</g:DecoratorPanel>
+		<g:HorizontalPanel>
+			<g:Button ui:field="saveButton" text="salvar"/>
+			<g:Button text="cancelar" ui:field="cancelButton"/>
+		</g:HorizontalPanel>
+	</g:HTMLPanel>
+</ui:UiBinder> 

@@ -1,0 +1,49 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+	xmlns:g='urn:import:com.google.gwt.user.client.ui' xmlns:m='urn:import:com.angel.client.ui'>
+	<g:HTMLPanel>
+	
+	main
+		<g:Button text="prueba" ui:field="prueba" />
+		<m:TopPanel ui:field='topPanel' />
+		<g:DecoratedTabPanel width="100%"
+			animationEnabled="true" ui:field="tabAlumno" >
+			<g:Tab text="Otro">
+				<g:HorizontalPanel width="5cm" height="3cm" />
+			</g:Tab>
+			<g:Tab text="Alumnos">
+				<g:VerticalPanel width="478px" height="245px">
+					<m:OneWidgetLayoutPanel ui:field='alumnoPanel'
+						height="131px">
+					</m:OneWidgetLayoutPanel>
+					<g:DecoratedTabPanel width="100%"
+						animationEnabled="true">
+						
+						<g:Tab text="Observaciones alumno">
+							<g:VerticalPanel width="478px" height="245px">
+								<m:OneWidgetLayoutPanel ui:field='observacionesalumnoPanel'
+									height="131px">
+								</m:OneWidgetLayoutPanel>
+								
+							</g:VerticalPanel>
+						
+						</g:Tab>
+						<g:Tab text="Matriculas">
+							
+							<g:VerticalPanel width="478px" height="245px">
+								<m:OneWidgetLayoutPanel ui:field='matriculaPanel'
+									height="131px">
+								</m:OneWidgetLayoutPanel>
+								
+							</g:VerticalPanel>
+						</g:Tab>
+						
+					</g:DecoratedTabPanel>
+				</g:VerticalPanel>
+			</g:Tab>
+		</g:DecoratedTabPanel>
+
+	</g:HTMLPanel>
+
+
+</ui:UiBinder>

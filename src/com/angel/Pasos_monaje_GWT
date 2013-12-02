@@ -1,0 +1,39 @@
+
+
+- Instalar EclipseLink
+- Activar JPA en proyect facest
+- Añadir en server Persona.java
+- Añadir en shared PersonaProxy.java y PersonaRequest.java
+- Añadir GescipRequestFactory.java
+- Modificar el web.xml añadiendo el requestFactoryServlet
+- Añadir Persona.java al maneged clases del persistence.xml
+
+
+
+
+validaciones
+añadir las librerias
+seguir los pasos https://code.google.com/p/google-web-toolkit/wiki/RequestFactoryInterfaceValidation
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/persistence
+        http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd" version="1.0">
+
+    <persistence-unit name="transactions-optional">
+        <provider>org.datanucleus.api.jpa.PersistenceProviderImpl</provider>
+        <class>com.angel.server.Persona</class>
+         <class>com.angel.server.Contact</class>
+         <class>com.angel.server.ContactDetails</class>
+        <properties>
+            <property name="datanucleus.NontransactionalRead" value="true"/>
+            <property name="datanucleus.NontransactionalWrite" value="true"/>
+            <property name="datanucleus.ConnectionURL" value="appengine"/>
+        </properties>
+    </persistence-unit>
+</persistence>
