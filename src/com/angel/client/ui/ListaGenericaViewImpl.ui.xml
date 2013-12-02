@@ -19,6 +19,7 @@
 						<g:Button ui:field="addButton" text="add" />
 						<g:Button ui:field="deleteButton" text="del" enabled="false" />
 						<g:Button ui:field="updateButton" text="update" enabled="false" />
+						<g:Button ui:field="refreshButton" text="refres" enabled="true" />
 					</g:HorizontalPanel>
 					<g:Hyperlink text="GENERICA" targetHistoryToken="newHistoryToken" />
 

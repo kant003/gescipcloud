@@ -73,7 +73,7 @@ public class EditAlumnoActivity extends AbstractActivity{
 
 	public EditAlumnoActivity(EditAlumnoPlace place,
 			ClientFactory clientFactory) {
-		System.out.println("presentacion edit constructor editor");
+		//System.out.println("presentacion edit constructor editor");
 		
 		this.clientFactory = clientFactory;
 		this.display = clientFactory.getEditAlumnoView();
@@ -89,7 +89,7 @@ public class EditAlumnoActivity extends AbstractActivity{
 	 */
 	@Override
 	public void start(AcceptsOneWidget containerWidget, EventBus eventBus) {
-		System.out.println("presentacion edit start");
+		//System.out.println("presentacion edit start");
 		// display = clientFactory.getAlumnoView();
 		display.setPresenter(this);
 
@@ -135,7 +135,7 @@ public class EditAlumnoActivity extends AbstractActivity{
 	
 	@EventHandler
 	void onAlumnoLoaded(AlumnoLoadedEvent event) {
-		System.out.println("presentacion llamada al onAlumnoLoad");
+		//System.out.println("presentacion llamada al onAlumnoLoad");
 
 	}
 
@@ -145,7 +145,7 @@ public class EditAlumnoActivity extends AbstractActivity{
 	 */
 	@Override
 	public String mayStop() {
-		System.out.println("presentacion maystop");
+		//System.out.println("presentacion maystop");
 		return null;
 	}
 
@@ -153,7 +153,7 @@ public class EditAlumnoActivity extends AbstractActivity{
 	 * Navigate to a new Place in the browser
 	 */
 	public void goTo(Place place) {
-		System.out.println("presentacion edit goto");
+		//System.out.println("presentacion edit goto");
 		clientFactory.getPlaceController().goTo(place);
 	}
 
@@ -162,7 +162,7 @@ public void cancel(){
 }
 
 	public void save(){
-		System.out.println("guardando edit");
+		//System.out.println("guardando edit");
 	//	if (valida() == false) return;
 		
 		String primaryKey = place.getId();
@@ -220,7 +220,7 @@ public void cancel(){
 		if (!violations.isEmpty()) {
 
 			for (ConstraintViolation<AlumnoProxy> c : violations) {
-				System.out.println("violación:"+c.getMessage());
+				//System.out.println("violación:"+c.getMessage());
 			}
 
 			return false;
@@ -248,7 +248,7 @@ public void cancel(){
 		driverEditor.initialize(clientFactory.getEventBus(),
 				clientFactory.getRequestFactory(), display);
 		String primaryKey = place.getId();
-		System.out.println("get contacto edit primary:"+primaryKey);
+		//System.out.println("get contacto edit primary:"+primaryKey);
 		if (primaryKey == null || primaryKey.isEmpty()){
 			AlumnoRequest request = clientFactory.getRequestFactory()
 					.alumnoRequest();
@@ -258,7 +258,7 @@ public void cancel(){
 			return;
 		}else {
 			if (clientFactory != null) {
-				System.out.println("buscando contacto");
+				//System.out.println("buscando contacto");
 				clientFactory.getRequestFactory().alumnoRequest()
 						.findAlumno(  Integer.parseInt(primaryKey)  )
 						.fire(new Receiver<AlumnoProxy>() {
@@ -269,7 +269,7 @@ public void cancel(){
 								driverEditor.edit(response, clientFactory
 										.getRequestFactory().alumnoRequest());
 								for(int i=0;i<driverEditor.getPaths().length;i++){
-								System.out.println("ruta:"+driverEditor.getPaths()[i]);
+								//System.out.println("ruta:"+driverEditor.getPaths()[i]);
 								}
 							}
 						});

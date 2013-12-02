@@ -3,6 +3,10 @@
 	  <persistence-unit name="temp" transaction-type="RESOURCE_LOCAL">
         <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
         <class>com.angel.server.Contact</class>
+        <class>com.angel.server.Material</class>
+        <class>com.angel.server.Alumno</class>
+        <class>com.angel.server.ObservacionAlumno</class>
+        <class>com.angel.server.Matricula</class>
        
         <exclude-unlisted-classes>false</exclude-unlisted-classes>
         <properties>

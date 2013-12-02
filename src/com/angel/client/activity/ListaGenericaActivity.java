@@ -1,9 +1,11 @@
 package com.angel.client.activity;
 
 import java.util.List;
+import java.util.logging.Level;
 
 import com.angel.client.ClientFactory;
 import com.angel.client.place.AlumnoPlace;
+import com.angel.client.place.SeleccionMatriculaPlace;
 import com.angel.shared.GenericProxy;
 import com.google.gwt.activity.shared.AbstractActivity;
 import com.google.gwt.event.dom.client.ClickEvent;
@@ -28,6 +30,7 @@ public abstract class ListaGenericaActivity<V extends ListaGenericaActivity.View
 	    HasClickHandlers getAddButton();
 	    HasClickHandlers getUpdateButton();
 	    HasClickHandlers getDeleteButton();
+	    HasClickHandlers getRefreshButton();
 	    HasValue<String> getFiltroTexto();
 	    HasClickHandlers getList();
 	    DataGrid<P> getDataGrid();
@@ -52,7 +55,7 @@ public abstract class ListaGenericaActivity<V extends ListaGenericaActivity.View
      }*/
 	
 	public ListaGenericaActivity(Place place,ClientFactory clientFactory, View<P> display) {
-		System.out.println("presentacion constructor lista generica");
+		//System.out.println("presentacion constructor lista generica");
 		this.display=display;
 		this.clientFactory = clientFactory;
 		//this.foreignkey = place.getForeignkey();
@@ -69,10 +72,10 @@ public abstract class ListaGenericaActivity<V extends ListaGenericaActivity.View
 	 */
 	@Override
 	public void start(AcceptsOneWidget containerWidget, EventBus eventBus) {
-		System.out.println("presentacion start lista generica");
-		
+		//System.out.println(this.getClass()+" Activity start");
+	//	clientFactory.getLogger().log(Level.INFO, "Activity start:"+this.getClass());
 		display.setPresenter(this);
-		
+	//	display.getFiltroTexto().setValue("matric");
 		//preparaColumnas();
 		
 		containerWidget.setWidget(display.asWidget());
@@ -99,7 +102,7 @@ public abstract class ListaGenericaActivity<V extends ListaGenericaActivity.View
 	 * Navigate to a new Place in the browser
 	 */
 	protected void goTo(Place place) {
-		System.out.println("presentacion goto");
+		//System.out.println("presentacion goto");
 		clientFactory.getPlaceController().goTo(place);
 	}
 
@@ -116,7 +119,7 @@ public abstract class ListaGenericaActivity<V extends ListaGenericaActivity.View
 	
 	public abstract void updateSelected();
 	
-	
+	public abstract void ver(int idMatricula);
 		
 
 	public abstract void onRangeChanged(HasData<P> m);

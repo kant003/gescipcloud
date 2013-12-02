@@ -157,7 +157,7 @@ public class AbstractEntity<P> {
 
 	
 	public static<P> List<P> _findAllBase(String namedQuery,int foreignkey,String filtro, Integer start, Integer end) {
-		System.out.println("servidor:findAll con foreing"+filtro+","+start+","+end+","+namedQuery);
+		System.out.println("servidor:findAll:"+foreignkey+",filtro:"+filtro+",start:"+start+",end:"+end+",nameQuery:"+namedQuery);
 		List<P> result = new ArrayList<P>();
 		List<P> resultRango = new ArrayList<P>();
 		EntityManager em = null;

@@ -73,13 +73,13 @@ public class EditGenericaActivity<V extends EditGenericaActivity.View<P>, P exte
 	
 	
 
-	public EditGenericaActivity(EditObservacionAlumnoPlace place,
+	public EditGenericaActivity(Place place,
 			ClientFactory clientFactory, View<P> display) {
-		System.out.println("presentacion edit constructor editor");
+		//System.out.println("presentacion edit constructor editor");
 		
 		this.clientFactory = clientFactory;
 		this.display = display;
-		this.place = place;
+	//	this.place = place;
 		eventBinder.bindEventHandlers(this, clientFactory.getEventBus());
 		getDatos();
 	}
@@ -91,7 +91,7 @@ public class EditGenericaActivity<V extends EditGenericaActivity.View<P>, P exte
 	 */
 	@Override
 	public void start(AcceptsOneWidget containerWidget, EventBus eventBus) {
-		System.out.println("presentacion edit start");
+		//System.out.println("presentacion edit start");
 		// display = clientFactory.getAlumnoView();
 		display.setPresenter(this);
 
@@ -137,7 +137,7 @@ public class EditGenericaActivity<V extends EditGenericaActivity.View<P>, P exte
 	
 	@EventHandler
 	void onAlumnoLoaded(AlumnoLoadedEvent event) {
-		System.out.println("presentacion llamada al onAlumnoLoad");
+		//System.out.println("presentacion llamada al onAlumnoLoad");
 
 	}
 
@@ -147,7 +147,7 @@ public class EditGenericaActivity<V extends EditGenericaActivity.View<P>, P exte
 	 */
 	@Override
 	public String mayStop() {
-		System.out.println("presentacion maystop");
+		//System.out.println("presentacion maystop");
 		return null;
 	}
 
@@ -155,12 +155,12 @@ public class EditGenericaActivity<V extends EditGenericaActivity.View<P>, P exte
 	 * Navigate to a new Place in the browser
 	 */
 	public void goTo(Place place) {
-		System.out.println("presentacion edit goto");
+		//System.out.println("presentacion edit goto");
 		clientFactory.getPlaceController().goTo(place);
 	}
 
 public void cancel(){
-	goTo(new SeleccionAlumnoPlace("",""));
+//	goTo(new SeleccionAlumnoPlace("",""));
 }
 
 	public void save(){

@@ -194,10 +194,8 @@ public abstract class GenericaEntity<E extends GenericaEntity<?>> {
 
 		EntityManager em = null;
 		try {
-			System.out.println("findallcontact");
-			em = entityManager();
-			System.out.println("findallcontact2");
 			
+			em = entityManager();
 			
 
 			List<ObservacionAlumno> list = em.createNamedQuery(namedQuery+".findAll")

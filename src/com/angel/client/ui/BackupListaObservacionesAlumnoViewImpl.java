@@ -3,11 +3,8 @@ package com.angel.client.ui;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.angel.client.activity.ListaGenericaActivity;
 import com.angel.client.activity.ListaObservacionesAlumnoActivity;
-import com.angel.client.place.AlumnoPlace;
-import com.angel.shared.AlumnoProxy;
-import com.angel.shared.GenericProxy;
+import com.angel.shared.ObservacionAlumnoProxy;
 import com.google.gwt.cell.client.ButtonCell;
 import com.google.gwt.cell.client.CheckboxCell;
 import com.google.gwt.cell.client.FieldUpdater;
@@ -15,8 +12,6 @@ import com.google.gwt.core.client.GWT;
 import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.dom.client.ClickHandler;
 import com.google.gwt.event.dom.client.HasClickHandlers;
-import com.google.gwt.event.dom.client.KeyPressEvent;
-import com.google.gwt.event.dom.client.KeyPressHandler;
 import com.google.gwt.safehtml.shared.SafeHtmlUtils;
 import com.google.gwt.uibinder.client.UiBinder;
 import com.google.gwt.uibinder.client.UiField;
@@ -28,8 +23,6 @@ import com.google.gwt.user.client.Window;
 import com.google.gwt.user.client.ui.Button;
 import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.HTML;
-import com.google.gwt.user.client.ui.HasValue;
-import com.google.gwt.user.client.ui.TextBox;
 import com.google.gwt.user.client.ui.Widget;
 import com.google.gwt.view.client.AsyncDataProvider;
 import com.google.gwt.view.client.DefaultSelectionEventManager;
@@ -38,15 +31,19 @@ import com.google.gwt.view.client.MultiSelectionModel;
 import com.google.gwt.view.client.SelectionChangeEvent;
 import com.google.gwt.view.client.SelectionModel;
 import com.google.gwt.view.client.SingleSelectionModel;
-import com.google.web.bindery.requestfactory.shared.EntityProxy;
 
-public abstract class ListaGenericaViewImpl<P extends GenericProxy> extends Composite implements ListaGenericaActivity.View<P>{
+public class BackupListaObservacionesAlumnoViewImpl{
+	
+}
+/*
 
-	private static ListaGenericaUiBinder uiBinder = GWT
-			.create(ListaGenericaUiBinder.class);
+public class BackupListaObservacionesAlumnoViewImpl extends Composite implements ListaObservacionesAlumnoActivity.View{
 
-	interface ListaGenericaUiBinder extends
-			UiBinder<Widget, ListaGenericaViewImpl<?>> {
+	private static ListaObservacionesAlumnoUiBinder uiBinder = GWT
+			.create(ListaObservacionesAlumnoUiBinder.class);
+
+	interface ListaObservacionesAlumnoUiBinder extends
+			UiBinder<Widget, ListaObservacionesAlumnoViewImpl> {
 	}
 
 	
@@ -58,37 +55,32 @@ public abstract class ListaGenericaViewImpl<P extends GenericProxy> extends Comp
 	Button updateButton;
 	@UiField
 	Button deleteButton;
-	@UiField
-	Button refreshButton;
-	@UiField
-	TextBox filtroTexto;
-	
-	
+
 	@UiField(provided = true)
-	public DataGrid<P> dataGrid = new DataGrid<P>();
+	public DataGrid<ObservacionAlumnoProxy> dataGrid = new DataGrid<ObservacionAlumnoProxy>();
 	
 	@UiField
 	SimplePager pager;
 	
-	public AsyncDataProvider<P> dataProviderAsync;
+	public AsyncDataProvider<ObservacionAlumnoProxy> dataProviderAsync;
 	
 	
-	 final MultiSelectionModel<P> selectionModel = new MultiSelectionModel<P>();
-	 //public SingleSelectionModel<P> selectionModel = new SingleSelectionModel<P>();
+	 final MultiSelectionModel<ObservacionAlumnoProxy> selectionModel = new MultiSelectionModel<ObservacionAlumnoProxy>();
+	 //public SingleSelectionModel<ObservacionAlumnoProxy> selectionModel = new SingleSelectionModel<ObservacionAlumnoProxy>();
 	
-	ListaGenericaActivity presenter;
+	ListaObservacionesAlumnoActivity presenter;
 	
 	
-	public ListaGenericaViewImpl() {
-		System.out.println("contructor de view Lista generica");
+	public BackupListaObservacionesAlumnoViewImpl() {
+		System.out.println("contructor de view Lista observ");
 		initWidget(uiBinder.createAndBindUi(this));
 		preparaColumnas();
 		dataGrid.setPageSize(5);
 		
 		// dataProvider.addDataDisplay(dataGrid);
-		dataProviderAsync = new AsyncDataProvider<P>() {
+		dataProviderAsync = new AsyncDataProvider<ObservacionAlumnoProxy>() {
 			@Override
-			protected void onRangeChanged(HasData<P> display) {
+			protected void onRangeChanged(HasData<ObservacionAlumnoProxy> display) {
 				if (presenter != null)
 					presenter.onRangeChanged(display);
 			}
@@ -120,13 +112,12 @@ public abstract class ListaGenericaViewImpl<P extends GenericProxy> extends Comp
 							updateButton.setEnabled(false);
 						}
 						
-						/*if (presenter != null) 
-							presenter.onSelectionChange(event);*/
+					
 						
 					}
 					
 				});
-		dataGrid.setSelectionModel(selectionModel, DefaultSelectionEventManager.<P> createCheckboxManager());
+		dataGrid.setSelectionModel(selectionModel, DefaultSelectionEventManager.<ObservacionAlumnoProxy> createCheckboxManager());
 		
 		//dataProviderAsync.addDataDisplay(dataGrid);	
 	
@@ -152,31 +143,12 @@ public abstract class ListaGenericaViewImpl<P extends GenericProxy> extends Comp
 				
 			}
 		});
-		
-		refreshButton.addClickHandler(new ClickHandler() {
-			@Override
-			public void onClick(ClickEvent event) {
-				presenter.refresca();
-				
-			}
-		});
-		
-		filtroTexto.addKeyPressHandler(new KeyPressHandler() {
-			
-			@Override
-			public void onKeyPress(KeyPressEvent event) {
-				if (event.getCharCode() == 13) {
-					presenter.refresca();
-				}					
-			}
-		});
-		
 	}
 
 	
 	
 	@Override
-	public void setData(int count, int start, List<P> data) {
+	public void setData(int count, int start, List<ObservacionAlumnoProxy> data) {
 		dataProviderAsync.updateRowCount(
 				count, true);
 		dataProviderAsync.updateRowData(start,
@@ -187,16 +159,7 @@ public abstract class ListaGenericaViewImpl<P extends GenericProxy> extends Comp
 	@Override
 	public int getClickedRow(ClickEvent event) {
 		int selectedRow = -1;
-	/*	HTMLTable.Cell cell = alumnoTable.getCellForEvent(event);
-
-		if (cell != null) {
-			// Suppress clicks if the user is actually selecting the
-			// check box
-			//
-			if (cell.getCellIndex() > 0) {
-				selectedRow = cell.getRowIndex();
-			}
-		}*/
+	
 
 		return selectedRow;
 
@@ -206,14 +169,7 @@ public abstract class ListaGenericaViewImpl<P extends GenericProxy> extends Comp
 	public List<Integer> getSelectedRows() {
 		
 		List<Integer> selectedRows = new ArrayList<Integer>();
-/*
-		for (int i = 0; i < dataGrid.getv.getRowCount(); ++i) {
-			CheckBox checkBox = (CheckBox) alumnoTable.getWidget(i, 0);
-			if (checkBox.getValue()) {
-				selectedRows.add(i);
-			}
-		}
-*/
+
 		return selectedRows;
 
 	}
@@ -240,18 +196,7 @@ public abstract class ListaGenericaViewImpl<P extends GenericProxy> extends Comp
 		// TODO Auto-generated method stub
 		return deleteButton;
 	}
-	
-	@Override
-	public HasClickHandlers getRefreshButton() {
-		// TODO Auto-generated method stub
-		return refreshButton;
-	}
 
-	@Override
-	public HasValue<String> getFiltroTexto() {
-		// TODO Auto-generated method stub
-		return filtroTexto;
-	}
 
 
 	@Override
@@ -262,36 +207,35 @@ public abstract class ListaGenericaViewImpl<P extends GenericProxy> extends Comp
 	
 
 	@Override
-	public  MultiSelectionModel<P> getSelectionModel(){
+	public MultiSelectionModel<ObservacionAlumnoProxy> getSelectionModel(){
 		 return selectionModel;
 	 }
 	
 	@Override
-	public void setPresenter(ListaGenericaActivity presenter) {
+	public void setPresenter(ListaObservacionesAlumnoActivity presenter) {
 		this.presenter = presenter;
 		
 	}
 
 	@Override
-	public DataGrid<P> getDataGrid(){
+	public DataGrid<ObservacionAlumnoProxy> getDataGrid(){
 		return dataGrid;
 	}
 	
 	
-	public abstract void preparaColumnas();
-	/*{
+	public void preparaColumnas() {
 		for(int i=0;i<dataGrid.getColumnCount();i++){
 			dataGrid.removeColumn(i);
 		}
-		System.out.println("preparando columnas lista generica");
+		System.out.println("preparando columnas lista observ");
 		
 	
 		CheckboxCell checkCell = new CheckboxCell();
 		
-		Column<P, Boolean> checkColumn = new Column<P, Boolean>(
+		Column<ObservacionAlumnoProxy, Boolean> checkColumn = new Column<ObservacionAlumnoProxy, Boolean>(
 				checkCell) {
 			@Override
-			public Boolean getValue(P object) {
+			public Boolean getValue(ObservacionAlumnoProxy object) {
 				return selectionModel.isSelected(object);
 				// return display.getSelectionModel().isSelected(object);
 			}
@@ -303,9 +247,9 @@ public abstract class ListaGenericaViewImpl<P extends GenericProxy> extends Comp
 		
 		
 			    
-		TextColumn<P> idColumn = new TextColumn<P>() {
+		TextColumn<ObservacionAlumnoProxy> idColumn = new TextColumn<ObservacionAlumnoProxy>() {
 			@Override
-			public String getValue(P object) {
+			public String getValue(ObservacionAlumnoProxy object) {
 				if (object == null)
 					return "--";
 				return String.valueOf(  object.getId()  );
@@ -315,9 +259,9 @@ public abstract class ListaGenericaViewImpl<P extends GenericProxy> extends Comp
 		dataGrid.addColumn(idColumn, "ID");
 		
 		
-		TextColumn<P> idAlunoColumn = new TextColumn<P>() {
+		TextColumn<ObservacionAlumnoProxy> idAlunoColumn = new TextColumn<ObservacionAlumnoProxy>() {
 			@Override
-			public String getValue(P object) {
+			public String getValue(ObservacionAlumnoProxy object) {
 				if (object == null)
 					return "--";
 				return String.valueOf(  object.getIdAlumno()  );
@@ -328,9 +272,9 @@ public abstract class ListaGenericaViewImpl<P extends GenericProxy> extends Comp
 		
 		
 		
-		TextColumn<P> textoColumn = new TextColumn<P>() {
+		TextColumn<ObservacionAlumnoProxy> textoColumn = new TextColumn<ObservacionAlumnoProxy>() {
 			@Override
-			public String getValue(P object) {
+			public String getValue(ObservacionAlumnoProxy object) {
 				if (object == null)
 					return "--";
 				return object.getTexto();
@@ -343,20 +287,20 @@ public abstract class ListaGenericaViewImpl<P extends GenericProxy> extends Comp
 	
 
 		ButtonCell botonCell = new ButtonCell();
-		Column<P, String> botonColumn = new Column<P, String>(
+		Column<ObservacionAlumnoProxy, String> botonColumn = new Column<ObservacionAlumnoProxy, String>(
 				botonCell) {
 
 			@Override
-			public String getValue(P contact) {
+			public String getValue(ObservacionAlumnoProxy contact) {
 				if(contact == null) return "vacio";
 				return "Click " + contact.getId();
 			}
 
 		};
 
-		botonColumn.setFieldUpdater(new FieldUpdater<P, String>() {
+		botonColumn.setFieldUpdater(new FieldUpdater<ObservacionAlumnoProxy, String>() {
 			@Override
-			public void update(int index, P object, String value) {
+			public void update(int index, ObservacionAlumnoProxy object, String value) {
 				Window.alert("You clicked " + object.getId());
 			}
 
@@ -365,5 +309,5 @@ public abstract class ListaGenericaViewImpl<P extends GenericProxy> extends Comp
 
 		
 	}
-*/
-}
+
+}*/

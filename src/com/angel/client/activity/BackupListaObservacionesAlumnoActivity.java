@@ -2,12 +2,12 @@ package com.angel.client.activity;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.logging.Level;
 
 import com.angel.client.ClientFactory;
-import com.angel.client.place.EditAlumnoPlace;
-import com.angel.client.place.AlumnoPlace;
+import com.angel.client.place.EditObservacionAlumnoPlace;
 import com.angel.client.place.SeleccionAlumnoPlace;
-import com.angel.shared.AlumnoProxy;
+import com.angel.shared.ObservacionAlumnoProxy;
 import com.google.gwt.activity.shared.AbstractActivity;
 import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.dom.client.HasClickHandlers;
@@ -16,7 +16,6 @@ import com.google.gwt.place.shared.Place;
 import com.google.gwt.user.cellview.client.DataGrid;
 import com.google.gwt.user.client.Window;
 import com.google.gwt.user.client.ui.AcceptsOneWidget;
-import com.google.gwt.user.client.ui.HasValue;
 import com.google.gwt.user.client.ui.Widget;
 import com.google.gwt.view.client.HasData;
 import com.google.gwt.view.client.MultiSelectionModel;
@@ -25,10 +24,11 @@ import com.google.gwt.view.client.SelectionChangeEvent;
 import com.google.web.bindery.requestfactory.shared.Receiver;
 import com.google.web.bindery.requestfactory.shared.ServerFailure;
 
-public class ListaAlumnoActivity extends AbstractActivity {
+public class BackupListaObservacionesAlumnoActivity extends AbstractActivity/* implements APresenter*/ {
 	// Used to obtain views, eventBus, placeController Alternatively, could be injected via GIN
 	private ClientFactory clientFactory;
-	
+	private String filtro;
+	private String foreignkey;
 	private final View display;
 
 
@@ -36,44 +36,35 @@ public class ListaAlumnoActivity extends AbstractActivity {
 	    HasClickHandlers getAddButton();
 	    HasClickHandlers getUpdateButton();
 	    HasClickHandlers getDeleteButton();
-	    HasValue<String> getFiltroTexto();
 	    HasClickHandlers getList();
-	    DataGrid<AlumnoProxy> getDataGrid();
-	    void setData(int count, int start, List<AlumnoProxy> data);
+	    DataGrid<ObservacionAlumnoProxy> getDataGrid();
+	    void setData(int count, int start, List<ObservacionAlumnoProxy> data);
 	    int getClickedRow(ClickEvent event);
 	    List<Integer> getSelectedRows();
 	    Widget asWidget();
-	    void setPresenter(ListaAlumnoActivity presenter);
-	  
-	    MultiSelectionModel<AlumnoProxy> getSelectionModel();
+	    void setPresenter(ListaObservacionesAlumnoActivity presenter);
+	    
+	    MultiSelectionModel<ObservacionAlumnoProxy> getSelectionModel();
 	   
 	  }
 	
 	
+	/* private static ListaObservacionesAlumnoActivity instance = null;
+	 public static synchronized ListaObservacionesAlumnoActivity getInstance(ListaAlumnoPlace place,
+				ClientFactory clientFactory) {
+             if (instance == null) {
+                     instance = new ListaObservacionesAlumnoActivity (place,clientFactory);
+             }
+             return instance;
+     }*/
 	
-	public ListaAlumnoActivity(SeleccionAlumnoPlace place,
+	public BackupListaObservacionesAlumnoActivity(SeleccionAlumnoPlace place,
 			ClientFactory clientFactory) {
-		System.out.println("presentacion constructor lista alumno");
-	/*	String prefijo = "alumno-";
-		if(place.getFiltro().startsWith(prefijo)){
-			this.filtro = place.getFiltro().substring(prefijo.length());	
-		}
-		*/
+	//	System.out.println("presentacion constructor lista observ");
+	//	this.filtro = place.getFiltro();
+	//	this.foreignkey = place.getForeignkey();
 		this.clientFactory = clientFactory;
-		this.display = clientFactory.getAlumnoView();
-	//	eventBinder.bindEventHandlers(this, clientFactory.getEventBus());
-	
-	}
-	public ListaAlumnoActivity(AlumnoPlace place,
-			ClientFactory clientFactory) {
-		System.out.println("presentacion constructor lista alumno");
-		/*String prefijo = "alumno-";
-		if(place.getFiltro().startsWith(prefijo)){
-			this.filtro = place.getFiltro().substring(prefijo.length());	
-		}*/
-		
-		this.clientFactory = clientFactory;
-		this.display = clientFactory.getAlumnoView();
+		this.display = (View) clientFactory.getObservacionesAlumnoView();
 	//	eventBinder.bindEventHandlers(this, clientFactory.getEventBus());
 	
 	}
@@ -86,9 +77,9 @@ public class ListaAlumnoActivity extends AbstractActivity {
 	 */
 	@Override
 	public void start(AcceptsOneWidget containerWidget, EventBus eventBus) {
-		System.out.println("presentacion start lista alumno");
-		
-		display.setPresenter(this);
+		//System.out.println("presentacion start lista observaciones");
+		clientFactory.getLogger().log(Level.INFO, "holaaaaa333333333333");
+		//display.setPresenter(this);
 		
 		//preparaColumnas();
 		
@@ -98,6 +89,7 @@ public class ListaAlumnoActivity extends AbstractActivity {
 
 		//if (display.getSelectionModel().getSelectedObject() == null) {
 			onRangeChanged(display.getDataGrid());
+		
 			display.getDataGrid().redraw();
 		//}
 		
@@ -108,7 +100,7 @@ public class ListaAlumnoActivity extends AbstractActivity {
 	 */
 	@Override
 	public String mayStop() {
-		System.out.println("presentacion maystop");
+		//System.out.println("presentacion maystop");
 		return null;
 	}
 
@@ -116,20 +108,20 @@ public class ListaAlumnoActivity extends AbstractActivity {
 	 * Navigate to a new Place in the browser
 	 */
 	public void goTo(Place place) {
-		System.out.println("presentacion goto");
+		//System.out.println("presentacion goto");
 		clientFactory.getPlaceController().goTo(place);
 	}
 
 	//@Override
 	public void deleteSelected() {
-		System.out.println("presentacion deleteSelected lista alumno");
+		//System.out.println("presentacion deleteSelected lista observ");
 		List<Integer> a = new ArrayList<Integer>();
-		for(AlumnoProxy c : display.getSelectionModel().getSelectedSet()){
+		for(ObservacionAlumnoProxy c : display.getSelectionModel().getSelectedSet()){
 			a.add(c.getId());
 		}
 		//display.getSelectionModel().getSelectedSet()
 			clientFactory.getRequestFactory().
-			alumnoRequest().remove( a ).
+			contactRequest().remove( a ).
 			fire(new Receiver<Integer>() {
 				@Override
 				public void onSuccess(Integer response) {
@@ -146,46 +138,44 @@ public class ListaAlumnoActivity extends AbstractActivity {
 
 	//@Override
 	public void addNew() {
-		goTo(new EditAlumnoPlace(""));
+		goTo(new EditObservacionAlumnoPlace(""));
 	}
 
-	
 	
 	public void updateSelected(){
 		
 		if(display.getSelectionModel().getSelectedSet()!=null && !display.getSelectionModel().getSelectedSet().isEmpty()){
-			AlumnoProxy c = display.getSelectionModel().getSelectedSet().iterator().next();
-			goTo(new EditAlumnoPlace(String.valueOf(c.getId())));
+			ObservacionAlumnoProxy c = display.getSelectionModel().getSelectedSet().iterator().next();
+			goTo(new EditObservacionAlumnoPlace(String.valueOf(c.getId())));
 		}
 	}
 	
 	
 		
 
-	public void onRangeChanged(HasData<AlumnoProxy> m) {
-		System.out
-		.println("onRancheChanged alumno lista");
+	public void onRangeChanged(HasData<ObservacionAlumnoProxy> m) {
+		//System.out.println("onRancheChanged observaciones lista");
 	//	System.out.println("rango cambio");
 		final Range range = m.getVisibleRange();
 		final int start = range.getStart();
 		final int end = start + range.getLength();
 
-		clientFactory.getRequestFactory().alumnoRequest().findAll(display.getFiltroTexto().getValue(),start,end)
-		.fire(new Receiver<List<AlumnoProxy>>() {
+		clientFactory.getRequestFactory().observacionAlumnoRequest().findAll(Integer.parseInt(foreignkey),null,start,end)
+		.fire(new Receiver<List<ObservacionAlumnoProxy>>() {
 
 			@Override
-			public void onSuccess(final List<AlumnoProxy> response) {
+			public void onSuccess(final List<ObservacionAlumnoProxy> response) {
 				// contactDetails = response;
-				System.out.println("listado correcto");
+
 				List<String> data = new ArrayList<String>();
 				if (response == null || response.size() == 0){
-					System.out.println("presentacion fetch: esta vacio");
-					display.setData(0, 0, response);
+					//System.out.println("presentacion fetch: esta vacio");
 				}else {
 			
-					System.out.println("contando");
+
 					
-					clientFactory.getRequestFactory().alumnoRequest().count(display.getFiltroTexto().getValue())
+					
+					clientFactory.getRequestFactory().observacionAlumnoRequest().count(Integer.parseInt(foreignkey),null)
 					.fire(new Receiver<Integer>() {
 
 						@Override
@@ -222,17 +212,4 @@ public class ListaAlumnoActivity extends AbstractActivity {
 	}
 	
 	
-	public void ver(int id){
-		String ids = ""+id;
-		clientFactory.getPlaceController().goTo(new SeleccionAlumnoPlace(ids));
-	}
-	
-
-	public void refresca(){
-	//	esto no está bien!!!!
-	//	goTo(new SeleccionAlumnoPlace("observacionesAlumno-"+display.getFiltroTexto().getValue(),foreignkey));
-	
-		onRangeChanged(display.getDataGrid());
-		display.getDataGrid().redraw();
-	}
 }

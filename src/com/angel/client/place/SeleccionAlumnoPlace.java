@@ -4,34 +4,29 @@ import com.google.gwt.place.shared.Place;
 import com.google.gwt.place.shared.PlaceTokenizer;
 
 public class SeleccionAlumnoPlace extends Place {
-	private String filtro;
-	private String foreignkey;
+private String idAlumno;
 
 
-	public SeleccionAlumnoPlace(String filtro, String foreignkey) {
-		this.filtro = filtro;
-		this.foreignkey = foreignkey;
+	public SeleccionAlumnoPlace(String idAlumno) {
+		
+		this.idAlumno = idAlumno;
 	}
 
-	public String getFiltro() {
-		return filtro;
+	public String getIdAlumno() {
+		return idAlumno;
 	}
-	public String getForeignkey() {
-		return foreignkey;
-	}
+	
 
 	public static class Tokenizer implements PlaceTokenizer<SeleccionAlumnoPlace> {
 		@Override
 		public String getToken(SeleccionAlumnoPlace place) {
-			return place.getFiltro()+";"+place.getForeignkey();
+			return place.getIdAlumno();
 		}
 
 		@Override
 		public SeleccionAlumnoPlace getPlace(String token) {
-			 String[] states = token.split(";");
-			 String filtro = states[0];
-			 String foreignkey = states[1];
-			return new SeleccionAlumnoPlace(filtro,foreignkey);
+			
+			return new SeleccionAlumnoPlace(token);
 		}
 	}
 }

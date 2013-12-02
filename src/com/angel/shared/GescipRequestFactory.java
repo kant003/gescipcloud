@@ -1,7 +1,5 @@
 package com.angel.shared;
 
-import com.angel.server.ObservacionAlumno;
-import com.google.web.bindery.requestfactory.shared.EntityProxy;
 import com.google.web.bindery.requestfactory.shared.RequestFactory;
 
 public interface GescipRequestFactory extends RequestFactory {
@@ -12,5 +10,6 @@ public interface GescipRequestFactory extends RequestFactory {
 	ObservacionAlumnoRequest observacionAlumnoRequest();
 	//GenericRequest<ObservacionAlumnoProxy> genericRequest();
 	MatriculaRequest matriculaRequest();
+	MaterialRequest materialRequest();
 	ContactDetailsRequest contactDetailsRequest();
 }

@@ -29,10 +29,10 @@ import com.angel.shared.MatriculaProxy;
 @Entity
 @Table(name = "matricula")
 @NamedQueries({
-		@NamedQuery(name = "Matricula.findAll", query = "SELECT n FROM Matricula n where n.texto like :filtro"),
-		@NamedQuery(name = "Matricula.count", query = "SELECT COUNT(n) FROM Matricula n where n.texto like :filtro"),
+		@NamedQuery(name = "Matricula.findAll", query = "SELECT n FROM Matricula n where n.idAlumno =:foreignkey and n.texto like :filtro"),
+		@NamedQuery(name = "Matricula.count", query = "SELECT COUNT(n) FROM Matricula n where n.idAlumno =:foreignkey and n.texto like :filtro"),
 		@NamedQuery(name = "Matricula.delete", query = "delete from Matricula o where o.id =:id")
-		
+
 
 })
 

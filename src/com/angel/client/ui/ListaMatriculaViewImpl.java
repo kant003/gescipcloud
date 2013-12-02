@@ -1,6 +1,6 @@
 package com.angel.client.ui;
 
-import com.angel.shared.ObservacionAlumnoProxy;
+import com.angel.shared.MatriculaProxy;
 import com.google.gwt.cell.client.ButtonCell;
 import com.google.gwt.cell.client.CheckboxCell;
 import com.google.gwt.cell.client.FieldUpdater;
@@ -9,7 +9,7 @@ import com.google.gwt.user.cellview.client.Column;
 import com.google.gwt.user.cellview.client.TextColumn;
 import com.google.gwt.user.client.Window;
 
-public class ListaMatriculaViewImpl extends ListaGenericaViewImpl<ObservacionAlumnoProxy> {
+public class ListaMatriculaViewImpl extends ListaGenericaViewImpl<MatriculaProxy> {
 
 	
 	public void preparaColumnas() {
@@ -21,10 +21,10 @@ public class ListaMatriculaViewImpl extends ListaGenericaViewImpl<ObservacionAlu
 	
 		CheckboxCell checkCell = new CheckboxCell();
 		
-		Column<ObservacionAlumnoProxy, Boolean> checkColumn = new Column<ObservacionAlumnoProxy, Boolean>(
+		Column<MatriculaProxy, Boolean> checkColumn = new Column<MatriculaProxy, Boolean>(
 				checkCell) {
 			@Override
-			public Boolean getValue(ObservacionAlumnoProxy object) {
+			public Boolean getValue(MatriculaProxy object) {
 				return selectionModel.isSelected(object);
 				// return display.getSelectionModel().isSelected(object);
 			}
@@ -36,21 +36,21 @@ public class ListaMatriculaViewImpl extends ListaGenericaViewImpl<ObservacionAlu
 		
 		
 			    
-		TextColumn<ObservacionAlumnoProxy> idColumn = new TextColumn<ObservacionAlumnoProxy>() {
+		TextColumn<MatriculaProxy> idColumn = new TextColumn<MatriculaProxy>() {
 			@Override
-			public String getValue(ObservacionAlumnoProxy object) {
+			public String getValue(MatriculaProxy object) {
 				if (object == null)
 					return "--";
 				return String.valueOf(  object.getId()  );
 			}
 		};
 		
-		dataGrid.addColumn(idColumn, "ID");
+		dataGrid.addColumn(idColumn, "ID matri");
 		
 		
-		TextColumn<ObservacionAlumnoProxy> idAlunoColumn = new TextColumn<ObservacionAlumnoProxy>() {
+		TextColumn<MatriculaProxy> idAlunoColumn = new TextColumn<MatriculaProxy>() {
 			@Override
-			public String getValue(ObservacionAlumnoProxy object) {
+			public String getValue(MatriculaProxy object) {
 				if (object == null)
 					return "--";
 				return String.valueOf(  object.getIdAlumno()  );
@@ -61,9 +61,9 @@ public class ListaMatriculaViewImpl extends ListaGenericaViewImpl<ObservacionAlu
 		
 		
 		
-		TextColumn<ObservacionAlumnoProxy> textoColumn = new TextColumn<ObservacionAlumnoProxy>() {
+		TextColumn<MatriculaProxy> textoColumn = new TextColumn<MatriculaProxy>() {
 			@Override
-			public String getValue(ObservacionAlumnoProxy object) {
+			public String getValue(MatriculaProxy object) {
 				if (object == null)
 					return "--";
 				return object.getTexto();
@@ -76,22 +76,22 @@ public class ListaMatriculaViewImpl extends ListaGenericaViewImpl<ObservacionAlu
 	
 
 		ButtonCell botonCell = new ButtonCell();
-		Column<ObservacionAlumnoProxy, String> botonColumn = new Column<ObservacionAlumnoProxy, String>(
+		Column<MatriculaProxy, String> botonColumn = new Column<MatriculaProxy, String>(
 				botonCell) {
 
 			@Override
-			public String getValue(ObservacionAlumnoProxy contact) {
+			public String getValue(MatriculaProxy contact) {
 				if(contact == null) return "vacio";
 				return "Click " + contact.getId();
 			}
 
 		};
 
-		botonColumn.setFieldUpdater(new FieldUpdater<ObservacionAlumnoProxy, String>() {
+		botonColumn.setFieldUpdater(new FieldUpdater<MatriculaProxy, String>() {
 			@Override
-			public void update(int index, ObservacionAlumnoProxy object, String value) {
+			public void update(int index, MatriculaProxy object, String value) {
 				Window.alert("You clicked " + object.getId());
-				
+				presenter.ver(object.getId());
 			}
 
 		});

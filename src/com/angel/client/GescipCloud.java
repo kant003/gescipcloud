@@ -1,7 +1,15 @@
 package com.angel.client;
 
+import java.util.logging.Level;
+
+
+import java.util.logging.Logger;
+
 import com.angel.client.mapper.AlumnoMapper;
 import com.angel.client.mapper.AppPlaceHistoryMapper;
+import com.angel.client.mapper.MaterialMapper;
+import com.angel.client.mapper.MatriculaMapper;
+import com.angel.client.mapper.ObservacionesAlumnoMapper;
 import com.angel.client.mapper.SeleccionAlumnoMapper;
 import com.angel.client.place.AlumnoPlace;
 import com.angel.client.place.SeleccionAlumnoPlace;
@@ -12,6 +20,8 @@ import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.shared.EventBus;
+import com.google.gwt.logging.client.HasWidgetsLogHandler;
+import com.google.gwt.logging.client.LoggingPopup;
 import com.google.gwt.place.shared.Place;
 import com.google.gwt.place.shared.PlaceController;
 import com.google.gwt.place.shared.PlaceHistoryHandler;
@@ -21,6 +31,7 @@ import com.google.gwt.uibinder.client.UiHandler;
 import com.google.gwt.user.client.ui.Button;
 import com.google.gwt.user.client.ui.DecoratedTabPanel;
 import com.google.gwt.user.client.ui.HTMLPanel;
+import com.google.gwt.user.client.ui.PopupPanel;
 import com.google.gwt.user.client.ui.RootLayoutPanel;
 import com.google.gwt.user.client.ui.SimplePanel;
 /**
@@ -42,7 +53,11 @@ public class GescipCloud implements EntryPoint {
 	@UiField
 	OneWidgetLayoutPanel matriculaPanel;
 	@UiField
+	OneWidgetLayoutPanel materialPanel;
+	@UiField
 	Button prueba;
+	
+	
 	@UiField
 	Button prueba2;
 	
@@ -57,12 +72,23 @@ public class GescipCloud implements EntryPoint {
 	//ClientFactory clientFactory;
 	 ClientFactory clientFactory;
 	public void onModuleLoad() {
+		Logger logger = Logger.getLogger("");
+	 //   logger.log(Level.FINE, "Arrancando aplicación");
+	    logger.log(Level.INFO, "Arrancando aplicación2");
+	    
 		// Create app layout
 
 		// Create ClientFactory using deferred binding so we can replace with
 		// different
 		// impls in gwt.xml
 		 clientFactory = GWT.create(ClientFactory.class);
+		
+		 
+		 
+		 clientFactory.getLogger().log(Level.INFO, "holaaaaa");
+		
+			
+			
 		//clientFactory.setMainView(this);
 		
 		EventBus eventBus = clientFactory.getEventBus();
@@ -76,7 +102,11 @@ System.out.println("contruyendo mappers");
 		// Start ActivityManager for each area with its ActivityMapper
 		ActivityMapper alumnoMapper = new AlumnoMapper(
 				clientFactory);
-		ActivityMapper seleccionAlumnoMapper = new SeleccionAlumnoMapper(
+		ActivityMapper observacionesAlumnoMapper = new ObservacionesAlumnoMapper(
+				clientFactory);
+		ActivityMapper matriculaMapper = new MatriculaMapper(
+				clientFactory);
+		ActivityMapper materialMapper = new MaterialMapper(
 				clientFactory);
 	/*	ActivityMapper mainPanelActivityMapper = new MainPanelActivityMapper(
 				clientFactory);
@@ -116,9 +146,20 @@ System.out.println("contruyendo mappers");
 		alumnoManager.setDisplay(alumnoPanel);
 		
 		
-		ActivityManager seleccionAlumnoManager = new ActivityManager(
-				seleccionAlumnoMapper, eventBus);
-		seleccionAlumnoManager.setDisplay(observacionesalumnoPanel);
+		ActivityManager observacionesAlumnoManager = new ActivityManager(
+				observacionesAlumnoMapper, eventBus);
+		observacionesAlumnoManager.setDisplay(observacionesalumnoPanel);
+		
+		
+		ActivityManager matriculaManager = new ActivityManager(
+				matriculaMapper, eventBus);
+		matriculaManager.setDisplay(matriculaPanel);
+		
+		
+		ActivityManager materialManager = new ActivityManager(
+				materialMapper, eventBus);
+		materialManager.setDisplay(materialPanel);
+		
 		
 		// Start PlaceHistoryHandler with our PlaceHistoryMapper
 		AppPlaceHistoryMapper historyMapper = GWT
@@ -147,6 +188,11 @@ System.out.println("contruyendo mappers");
 				});*/
 
 	
+		 PopupPanel loggingPopup = new PopupPanel(false);
+			loggingPopup.setPopupPosition(10, 240);
+			loggingPopup.setWidth("500px");
+			clientFactory.getLogger().addHandler(new HasWidgetsLogHandler(loggingPopup));
+		
 	}
 	
 	@UiHandler("prueba")
@@ -161,9 +207,14 @@ System.out.println("contruyendo mappers");
 	 void onPrueba2Click(ClickEvent event) {
    			
 			
-			 clientFactory.getPlaceController().goTo(new SeleccionAlumnoPlace("2","2"));
+			 clientFactory.getPlaceController().goTo(new SeleccionAlumnoPlace("2"));
 			
 		}
+	
+	
+	
+	
+	
 	 
 	/*
 	
