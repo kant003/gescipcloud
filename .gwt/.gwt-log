@@ -1,0 +1,2853 @@
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2719 units from cache.
+Compiling...
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   50% complete (ETR: 5 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 10,31 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2861 units from cache.
+Compiling...
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 6,37 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView.PersonaViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153335845.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153335845.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153335845_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView.PersonaViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153339421.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153339421.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153339421_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView.PersonaViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153352505.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153352505.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153352505_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView.PersonaViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153353511.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153353511.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153353511_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView.PersonaViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153365767.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153365767.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153365767_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView.PersonaViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153371271.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153371271.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153371271_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView.PersonaViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153375229.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153375229.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.PersonaView_PersonaViewUiBinderImpl_designTime1383153375229_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2884 units from cache.
+Compiling...
+   30% complete (ETR: 12 seconds)
+   30% complete (ETR: 12 seconds)
+   30% complete (ETR: 12 seconds)
+   30% complete (ETR: 11 seconds)
+   40% complete (ETR: 10 seconds)
+   50% complete (ETR: 9 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 27,15 seconds
+Validating units:
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/AddContactEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/AddContactEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactDeletedEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactDeletedEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactUpdatedEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+      [ERROR] Line 4: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 8: Contact cannot be resolved to a type
+      [ERROR] Line 10: Contact cannot be resolved to a type
+      [ERROR] Line 11: Contact cannot be resolved to a type
+      [ERROR] Line 14: Contact cannot be resolved to a type
+      [ERROR] Line 14: Contact cannot be resolved to a type
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactUpdatedEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactCancelledEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactCancelledEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/dd.java'
+      [ERROR] Line 1: The declared package "sample.client" does not match the expected package "com.angel.client.event"
+      [ERROR] Line 30: ContactScreenOpenedEvent cannot be resolved to a type
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/presenter/ContactPresenter.java'
+      [ERROR] Line 4: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 5: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 6: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 7: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 23: ContactDetails cannot be resolved to a type
+      [ERROR] Line 35: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 40: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 48: AddContactEvent cannot be resolved to a type
+      [ERROR] Line 63: Missing code implementation in the compiler
+      [ERROR] Line 83: Missing code implementation in the compiler
+      [ERROR] Line 94: ContactDetails cannot be resolved to a type
+      [ERROR] Line 95: Missing code implementation in the compiler
+      [ERROR] Line 98: ContactDetails cannot be resolved to a type
+      [ERROR] Line 99: Missing code implementation in the compiler
+      [ERROR] Line 103: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 103: The type new AsyncCallback<ArrayList<ContactDetails>>(){} must implement the inherited abstract method AsyncCallback<ArrayList<ContactDetails>>.onSuccess(ArrayList<ContactDetails>)
+      [ERROR] Line 103: ContactDetails cannot be resolved to a type
+      [ERROR] Line 104: ContactDetails cannot be resolved to a type
+      [ERROR] Line 105: Missing code implementation in the compiler
+      [ERROR] Line 127: Missing code implementation in the compiler
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/presenter/EditContactPresenter.java'
+      [ERROR] Line 13: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 14: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 15: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 16: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 28: Contact cannot be resolved to a type
+      [ERROR] Line 29: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 33: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 34: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 36: Contact cannot be resolved to a type
+      [ERROR] Line 36: Contact cannot be resolved to a type
+      [ERROR] Line 41: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 42: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 47: The type new AsyncCallback<Contact>(){} must implement the inherited abstract method AsyncCallback<Contact>.onSuccess(Contact)
+      [ERROR] Line 47: Contact cannot be resolved to a type
+      [ERROR] Line 48: Contact cannot be resolved to a type
+      [ERROR] Line 49: Contact cannot be resolved to a type
+      [ERROR] Line 50: Contact cannot be resolved to a type
+      [ERROR] Line 51: Contact cannot be resolved to a type
+      [ERROR] Line 52: Contact cannot be resolved to a type
+      [ERROR] Line 71: EditContactCancelledEvent cannot be resolved to a type
+      [ERROR] Line 82: Contact cannot be resolved to a type
+      [ERROR] Line 83: Contact cannot be resolved to a type
+      [ERROR] Line 84: Contact cannot be resolved to a type
+      [ERROR] Line 86: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 86: Contact cannot be resolved to a type
+      [ERROR] Line 86: The type new AsyncCallback<Contact>(){} must implement the inherited abstract method AsyncCallback<Contact>.onSuccess(Contact)
+      [ERROR] Line 86: Contact cannot be resolved to a type
+      [ERROR] Line 87: Contact cannot be resolved to a type
+      [ERROR] Line 88: The method fireEvent(GwtEvent<?>) in the type HandlerManager is not applicable for the arguments (ContactUpdatedEvent)
+      [ERROR] Line 88: ContactUpdatedEvent cannot be resolved to a type
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/ui/PersonaView.java'
+      [ERROR] Line 12: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218675969.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218675969.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218675969_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218677083.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218677083.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218677083_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218789307.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218789307.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218789307_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218825609.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218825609.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218825609_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218838854.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218838854.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218838854_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218855069.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218855069.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218855069_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218878730.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218878730.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218878730_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218880083.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218880083.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218880083_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218883589.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218883589.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218883589_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218894114.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218894114.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218894114_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218895721.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218895721.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218895721_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218899057.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218899057.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218899057_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218929323.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218929323.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218929323_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218938536.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218938536.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218938536_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218968408.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218968408.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218968408_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218968477.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218968477.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218968477_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218988519.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218988519.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383218988519_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219015653.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219015653.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219015653_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219017189.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219017189.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219017189_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,46 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219074424.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219074424.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219074424_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219074488.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219074488.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219074488_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219084142.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219084142.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219084142_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2884 units from cache.
+Compiling...
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2725 units from cache.
+Compiling...
+   40% complete (ETR: 6 seconds)
+   40% complete (ETR: 6 seconds)
+   40% complete (ETR: 6 seconds)
+   40% complete (ETR: 6 seconds)
+   40% complete (ETR: 6 seconds)
+   50% complete (ETR: 5 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 9,79 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2725 cached/archived units.  Used 2725 / 2725 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2725 cached/archived units.  Used 2725 / 2725 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2725 cached/archived units.  Used 2725 / 2884 units from cache.
+Compiling...
+   Compilation completed in 0,53 seconds
+Validating units:
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/AddContactEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/AddContactEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactDeletedEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactDeletedEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactUpdatedEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+      [ERROR] Line 4: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 8: Contact cannot be resolved to a type
+      [ERROR] Line 10: Contact cannot be resolved to a type
+      [ERROR] Line 11: Contact cannot be resolved to a type
+      [ERROR] Line 14: Contact cannot be resolved to a type
+      [ERROR] Line 14: Contact cannot be resolved to a type
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactUpdatedEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactCancelledEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactCancelledEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/dd.java'
+      [ERROR] Line 1: The declared package "sample.client" does not match the expected package "com.angel.client.event"
+      [ERROR] Line 30: ContactScreenOpenedEvent cannot be resolved to a type
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/presenter/ContactPresenter.java'
+      [ERROR] Line 4: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 5: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 6: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 7: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 23: ContactDetails cannot be resolved to a type
+      [ERROR] Line 35: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 40: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 48: AddContactEvent cannot be resolved to a type
+      [ERROR] Line 63: Missing code implementation in the compiler
+      [ERROR] Line 83: Missing code implementation in the compiler
+      [ERROR] Line 94: ContactDetails cannot be resolved to a type
+      [ERROR] Line 95: Missing code implementation in the compiler
+      [ERROR] Line 98: ContactDetails cannot be resolved to a type
+      [ERROR] Line 99: Missing code implementation in the compiler
+      [ERROR] Line 103: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 103: The type new AsyncCallback<ArrayList<ContactDetails>>(){} must implement the inherited abstract method AsyncCallback<ArrayList<ContactDetails>>.onSuccess(ArrayList<ContactDetails>)
+      [ERROR] Line 103: ContactDetails cannot be resolved to a type
+      [ERROR] Line 104: ContactDetails cannot be resolved to a type
+      [ERROR] Line 105: Missing code implementation in the compiler
+      [ERROR] Line 127: Missing code implementation in the compiler
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/presenter/EditContactPresenter.java'
+      [ERROR] Line 13: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 14: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 15: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 16: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 28: Contact cannot be resolved to a type
+      [ERROR] Line 29: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 33: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 34: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 36: Contact cannot be resolved to a type
+      [ERROR] Line 36: Contact cannot be resolved to a type
+      [ERROR] Line 41: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 42: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 47: The type new AsyncCallback<Contact>(){} must implement the inherited abstract method AsyncCallback<Contact>.onSuccess(Contact)
+      [ERROR] Line 47: Contact cannot be resolved to a type
+      [ERROR] Line 48: Contact cannot be resolved to a type
+      [ERROR] Line 49: Contact cannot be resolved to a type
+      [ERROR] Line 50: Contact cannot be resolved to a type
+      [ERROR] Line 51: Contact cannot be resolved to a type
+      [ERROR] Line 52: Contact cannot be resolved to a type
+      [ERROR] Line 71: EditContactCancelledEvent cannot be resolved to a type
+      [ERROR] Line 82: Contact cannot be resolved to a type
+      [ERROR] Line 83: Contact cannot be resolved to a type
+      [ERROR] Line 84: Contact cannot be resolved to a type
+      [ERROR] Line 86: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 86: Contact cannot be resolved to a type
+      [ERROR] Line 86: The type new AsyncCallback<Contact>(){} must implement the inherited abstract method AsyncCallback<Contact>.onSuccess(Contact)
+      [ERROR] Line 86: Contact cannot be resolved to a type
+      [ERROR] Line 87: Contact cannot be resolved to a type
+      [ERROR] Line 88: The method fireEvent(GwtEvent<?>) in the type HandlerManager is not applicable for the arguments (ContactUpdatedEvent)
+      [ERROR] Line 88: ContactUpdatedEvent cannot be resolved to a type
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/ui/PersonaView.java'
+      [ERROR] Line 12: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219315472.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219315472.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219315472_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219316694.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219316694.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219316694_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219328025.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219328025.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219328025_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219337694.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219337694.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219337694_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219352590.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219352590.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219352590_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219354903.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219354903.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219354903_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219359649.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219359649.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219359649_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2883 cached/archived units.  Used 2883 / 2884 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Validating units:
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/AddContactEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/AddContactEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactDeletedEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactDeletedEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactUpdatedEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+      [ERROR] Line 4: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 8: Contact cannot be resolved to a type
+      [ERROR] Line 10: Contact cannot be resolved to a type
+      [ERROR] Line 11: Contact cannot be resolved to a type
+      [ERROR] Line 14: Contact cannot be resolved to a type
+      [ERROR] Line 14: Contact cannot be resolved to a type
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactUpdatedEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactCancelledEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactCancelledEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/dd.java'
+      [ERROR] Line 1: The declared package "sample.client" does not match the expected package "com.angel.client.event"
+      [ERROR] Line 30: ContactScreenOpenedEvent cannot be resolved to a type
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/presenter/ContactPresenter.java'
+      [ERROR] Line 4: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 5: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 6: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 7: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 23: ContactDetails cannot be resolved to a type
+      [ERROR] Line 35: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 40: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 48: AddContactEvent cannot be resolved to a type
+      [ERROR] Line 63: Missing code implementation in the compiler
+      [ERROR] Line 83: Missing code implementation in the compiler
+      [ERROR] Line 94: ContactDetails cannot be resolved to a type
+      [ERROR] Line 95: Missing code implementation in the compiler
+      [ERROR] Line 98: ContactDetails cannot be resolved to a type
+      [ERROR] Line 99: Missing code implementation in the compiler
+      [ERROR] Line 103: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 103: The type new AsyncCallback<ArrayList<ContactDetails>>(){} must implement the inherited abstract method AsyncCallback<ArrayList<ContactDetails>>.onSuccess(ArrayList<ContactDetails>)
+      [ERROR] Line 103: ContactDetails cannot be resolved to a type
+      [ERROR] Line 104: ContactDetails cannot be resolved to a type
+      [ERROR] Line 105: Missing code implementation in the compiler
+      [ERROR] Line 127: Missing code implementation in the compiler
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/presenter/EditContactPresenter.java'
+      [ERROR] Line 13: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 14: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 15: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 16: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 28: Contact cannot be resolved to a type
+      [ERROR] Line 29: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 33: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 34: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 36: Contact cannot be resolved to a type
+      [ERROR] Line 36: Contact cannot be resolved to a type
+      [ERROR] Line 41: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 42: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 47: The type new AsyncCallback<Contact>(){} must implement the inherited abstract method AsyncCallback<Contact>.onSuccess(Contact)
+      [ERROR] Line 47: Contact cannot be resolved to a type
+      [ERROR] Line 48: Contact cannot be resolved to a type
+      [ERROR] Line 49: Contact cannot be resolved to a type
+      [ERROR] Line 50: Contact cannot be resolved to a type
+      [ERROR] Line 51: Contact cannot be resolved to a type
+      [ERROR] Line 52: Contact cannot be resolved to a type
+      [ERROR] Line 71: EditContactCancelledEvent cannot be resolved to a type
+      [ERROR] Line 82: Contact cannot be resolved to a type
+      [ERROR] Line 83: Contact cannot be resolved to a type
+      [ERROR] Line 84: Contact cannot be resolved to a type
+      [ERROR] Line 86: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 86: Contact cannot be resolved to a type
+      [ERROR] Line 86: The type new AsyncCallback<Contact>(){} must implement the inherited abstract method AsyncCallback<Contact>.onSuccess(Contact)
+      [ERROR] Line 86: Contact cannot be resolved to a type
+      [ERROR] Line 87: Contact cannot be resolved to a type
+      [ERROR] Line 88: The method fireEvent(GwtEvent<?>) in the type HandlerManager is not applicable for the arguments (ContactUpdatedEvent)
+      [ERROR] Line 88: ContactUpdatedEvent cannot be resolved to a type
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/ui/PersonaView.java'
+      [ERROR] Line 12: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219370900.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219370900.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219370900_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219371344.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219371344.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219371344_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2884 cached/archived units.  Used 2884 / 2884 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/AddContactEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/AddContactEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactDeletedEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactDeletedEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactUpdatedEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+      [ERROR] Line 4: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 8: Contact cannot be resolved to a type
+      [ERROR] Line 10: Contact cannot be resolved to a type
+      [ERROR] Line 11: Contact cannot be resolved to a type
+      [ERROR] Line 14: Contact cannot be resolved to a type
+      [ERROR] Line 14: Contact cannot be resolved to a type
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactUpdatedEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactCancelledEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactCancelledEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/dd.java'
+      [ERROR] Line 1: The declared package "sample.client" does not match the expected package "com.angel.client.event"
+      [ERROR] Line 30: ContactScreenOpenedEvent cannot be resolved to a type
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/presenter/ContactPresenter.java'
+      [ERROR] Line 4: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 5: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 6: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 7: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 23: ContactDetails cannot be resolved to a type
+      [ERROR] Line 35: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 40: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 48: AddContactEvent cannot be resolved to a type
+      [ERROR] Line 63: Missing code implementation in the compiler
+      [ERROR] Line 83: Missing code implementation in the compiler
+      [ERROR] Line 94: ContactDetails cannot be resolved to a type
+      [ERROR] Line 95: Missing code implementation in the compiler
+      [ERROR] Line 98: ContactDetails cannot be resolved to a type
+      [ERROR] Line 99: Missing code implementation in the compiler
+      [ERROR] Line 103: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 103: The type new AsyncCallback<ArrayList<ContactDetails>>(){} must implement the inherited abstract method AsyncCallback<ArrayList<ContactDetails>>.onSuccess(ArrayList<ContactDetails>)
+      [ERROR] Line 103: ContactDetails cannot be resolved to a type
+      [ERROR] Line 104: ContactDetails cannot be resolved to a type
+      [ERROR] Line 105: Missing code implementation in the compiler
+      [ERROR] Line 127: Missing code implementation in the compiler
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/presenter/EditContactPresenter.java'
+      [ERROR] Line 13: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 14: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 15: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 16: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 28: Contact cannot be resolved to a type
+      [ERROR] Line 29: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 33: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 34: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 36: Contact cannot be resolved to a type
+      [ERROR] Line 36: Contact cannot be resolved to a type
+      [ERROR] Line 41: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 42: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 47: The type new AsyncCallback<Contact>(){} must implement the inherited abstract method AsyncCallback<Contact>.onSuccess(Contact)
+      [ERROR] Line 47: Contact cannot be resolved to a type
+      [ERROR] Line 48: Contact cannot be resolved to a type
+      [ERROR] Line 49: Contact cannot be resolved to a type
+      [ERROR] Line 50: Contact cannot be resolved to a type
+      [ERROR] Line 51: Contact cannot be resolved to a type
+      [ERROR] Line 52: Contact cannot be resolved to a type
+      [ERROR] Line 71: EditContactCancelledEvent cannot be resolved to a type
+      [ERROR] Line 82: Contact cannot be resolved to a type
+      [ERROR] Line 83: Contact cannot be resolved to a type
+      [ERROR] Line 84: Contact cannot be resolved to a type
+      [ERROR] Line 86: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 86: Contact cannot be resolved to a type
+      [ERROR] Line 86: The type new AsyncCallback<Contact>(){} must implement the inherited abstract method AsyncCallback<Contact>.onSuccess(Contact)
+      [ERROR] Line 86: Contact cannot be resolved to a type
+      [ERROR] Line 87: Contact cannot be resolved to a type
+      [ERROR] Line 88: The method fireEvent(GwtEvent<?>) in the type HandlerManager is not applicable for the arguments (ContactUpdatedEvent)
+      [ERROR] Line 88: ContactUpdatedEvent cannot be resolved to a type
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/ui/PersonaView.java'
+      [ERROR] Line 12: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219392191.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219392191.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219392191_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219392616.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219392616.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219392616_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219409158.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219409158.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219409158_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219418241.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219418241.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219418241_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219422162.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219422162.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219422162_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219428031.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219428031.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383219428031_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2883 cached/archived units.  Used 2883 / 2885 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Validating units:
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/AddContactEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/AddContactEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactDeletedEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactDeletedEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactUpdatedEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+      [ERROR] Line 4: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 8: Contact cannot be resolved to a type
+      [ERROR] Line 10: Contact cannot be resolved to a type
+      [ERROR] Line 11: Contact cannot be resolved to a type
+      [ERROR] Line 14: Contact cannot be resolved to a type
+      [ERROR] Line 14: Contact cannot be resolved to a type
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactUpdatedEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactCancelledEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactCancelledEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactEvent.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/EditContactEventHandler.java'
+      [ERROR] Line 1: The declared package "com.google.gwt.sample.contacts.client.event" does not match the expected package "com.angel.client.event"
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/dd.java'
+      [ERROR] Line 1: The declared package "sample.client" does not match the expected package "com.angel.client.event"
+      [ERROR] Line 30: ContactScreenOpenedEvent cannot be resolved to a type
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/presenter/ContactPresenter.java'
+      [ERROR] Line 4: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 5: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 6: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 7: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 23: ContactDetails cannot be resolved to a type
+      [ERROR] Line 35: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 40: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 48: AddContactEvent cannot be resolved to a type
+      [ERROR] Line 63: Missing code implementation in the compiler
+      [ERROR] Line 83: Missing code implementation in the compiler
+      [ERROR] Line 94: ContactDetails cannot be resolved to a type
+      [ERROR] Line 95: Missing code implementation in the compiler
+      [ERROR] Line 98: ContactDetails cannot be resolved to a type
+      [ERROR] Line 99: Missing code implementation in the compiler
+      [ERROR] Line 103: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 103: The type new AsyncCallback<ArrayList<ContactDetails>>(){} must implement the inherited abstract method AsyncCallback<ArrayList<ContactDetails>>.onSuccess(ArrayList<ContactDetails>)
+      [ERROR] Line 103: ContactDetails cannot be resolved to a type
+      [ERROR] Line 104: ContactDetails cannot be resolved to a type
+      [ERROR] Line 105: Missing code implementation in the compiler
+      [ERROR] Line 127: Missing code implementation in the compiler
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/presenter/EditContactPresenter.java'
+      [ERROR] Line 13: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 14: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 15: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 16: The import com.google.gwt.sample cannot be resolved
+      [ERROR] Line 28: Contact cannot be resolved to a type
+      [ERROR] Line 29: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 33: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 34: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 36: Contact cannot be resolved to a type
+      [ERROR] Line 36: Contact cannot be resolved to a type
+      [ERROR] Line 41: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 42: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 47: The type new AsyncCallback<Contact>(){} must implement the inherited abstract method AsyncCallback<Contact>.onSuccess(Contact)
+      [ERROR] Line 47: Contact cannot be resolved to a type
+      [ERROR] Line 48: Contact cannot be resolved to a type
+      [ERROR] Line 49: Contact cannot be resolved to a type
+      [ERROR] Line 50: Contact cannot be resolved to a type
+      [ERROR] Line 51: Contact cannot be resolved to a type
+      [ERROR] Line 52: Contact cannot be resolved to a type
+      [ERROR] Line 71: EditContactCancelledEvent cannot be resolved to a type
+      [ERROR] Line 82: Contact cannot be resolved to a type
+      [ERROR] Line 83: Contact cannot be resolved to a type
+      [ERROR] Line 84: Contact cannot be resolved to a type
+      [ERROR] Line 86: ContactsServiceAsync cannot be resolved to a type
+      [ERROR] Line 86: Contact cannot be resolved to a type
+      [ERROR] Line 86: The type new AsyncCallback<Contact>(){} must implement the inherited abstract method AsyncCallback<Contact>.onSuccess(Contact)
+      [ERROR] Line 86: Contact cannot be resolved to a type
+      [ERROR] Line 87: Contact cannot be resolved to a type
+      [ERROR] Line 88: The method fireEvent(GwtEvent<?>) in the type HandlerManager is not applicable for the arguments (ContactUpdatedEvent)
+      [ERROR] Line 88: ContactUpdatedEvent cannot be resolved to a type
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/ui/ContactsViewImpl.java'
+      [ERROR] Line 34: button cannot be resolved
+      [ERROR] Line 38: button cannot be resolved
+      [ERROR] Line 42: button cannot be resolved
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/ui/PersonaView.java'
+      [ERROR] Line 12: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219503129.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219503129.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219503129_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219503464.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219503464.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219503464_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219534499.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219534499.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219534499_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219553558.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219553558.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219553558_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219621047.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219621047.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219621047_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219624661.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219624661.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219624661_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219625522.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219625522.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219625522_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219628403.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219628403.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219628403_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219630537.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219630537.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219630537_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219632816.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219632816.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219632816_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219636486.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219636486.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219636486_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219638159.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219638159.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219638159_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219648346.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219648346.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219648346_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219653443.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219653443.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219653443_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219707404.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219707404.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219707404_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219724477.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219724477.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219724477_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219725288.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219725288.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219725288_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219725750.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219725750.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219725750_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219727573.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219727573.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219727573_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219731716.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219731716.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219731716_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219734856.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219734856.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219734856_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219745366.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219745366.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219745366_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219752329.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219752329.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219752329_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219757666.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219757666.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219757666_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219759998.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219759998.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219759998_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219763250.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219763250.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219763250_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219765505.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219765505.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219765505_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219767869.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219767869.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219767869_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219769312.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219769312.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219769312_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219773565.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219773565.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219773565_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219777783.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219777783.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219777783_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219786292.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219786292.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219786292_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219800025.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219800025.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219800025_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219813770.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219813770.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219813770_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219819461.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219819461.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219819461_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219828252.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219828252.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219828252_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219830121.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219830121.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219830121_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219836770.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219836770.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219836770_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219838161.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219838161.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219838161_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219839215.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219839215.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219839215_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219840435.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219840435.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219840435_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219848380.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219848380.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219848380_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl.EditContactViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219851638.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219851638.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.EditContactViewImpl_EditContactViewImplUiBinderImpl_designTime1383219851638_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2725 units from cache.
+Compiling...
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   50% complete (ETR: 5 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 15,59 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2725 cached/archived units.  Used 2725 / 2725 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2725 cached/archived units.  Used 2725 / 2725 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2894 units from cache.
+Compiling...
+   Compilation completed in 5,61 seconds
+Validating units:
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/ClientFactory.java'
+      [ERROR] Line 10: No source code is available for type com.google.gwt.place.shared.PlaceController; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/ClientFactoryImpl.java'
+      [ERROR] Line 15: No source code is available for type com.google.gwt.place.shared.PlaceController; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/GescipCloud.java'
+      [ERROR] Line 37: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type com.google.gwt.place.shared.PlaceController; did you forget to inherit a required module?
+      [ERROR] Line 46: No source code is available for type com.google.gwt.activity.shared.ActivityMapper; did you forget to inherit a required module?
+      [ERROR] Line 47: No source code is available for type com.google.gwt.activity.shared.ActivityManager; did you forget to inherit a required module?
+      [ERROR] Line 52: No source code is available for type com.google.gwt.place.shared.PlaceHistoryHandler; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/activity/HelloActivity.java'
+      [ERROR] Line 11: No source code is available for type com.google.gwt.activity.shared.AbstractActivity; did you forget to inherit a required module?
+      [ERROR] Line 11: HelloView cannot be resolved to a type
+      [ERROR] Line 47: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactUpdatedEvent.java'
+      [ERROR] Line 8: No source code is available for type com.angel.server.Contact; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/mapper/AppActivityMapper.java'
+      [ERROR] Line 10: No source code is available for type com.google.gwt.activity.shared.ActivityMapper; did you forget to inherit a required module?
+      [ERROR] Line 19: No source code is available for type com.google.gwt.activity.shared.Activity; did you forget to inherit a required module?
+      [ERROR] Line 19: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/mapper/AppPlaceHistoryMapper.java'
+      [ERROR] Line 8: No source code is available for type com.google.gwt.place.shared.PlaceHistoryMapper; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/place/HelloPlace.java'
+      [ERROR] Line 6: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+      [ERROR] Line 17: No source code is available for type com.google.gwt.place.shared.PlaceTokenizer<P>; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/presenter/EditContactPresenter.java'
+      [ERROR] Line 31: No source code is available for type com.angel.server.Contact; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/ui/PersonaView.java'
+      [ERROR] Line 12: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/GescipCloud.java'
+      [ERROR] Line 37: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type com.google.gwt.place.shared.PlaceController; did you forget to inherit a required module?
+      [ERROR] Line 46: No source code is available for type com.google.gwt.activity.shared.ActivityMapper; did you forget to inherit a required module?
+      [ERROR] Line 47: No source code is available for type com.google.gwt.activity.shared.ActivityManager; did you forget to inherit a required module?
+      [ERROR] Line 52: No source code is available for type com.google.gwt.place.shared.PlaceHistoryHandler; did you forget to inherit a required module?
+   [ERROR] Unable to find type 'com.angel.client.GescipCloud'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2894 units from cache.
+Compiling...
+   Compilation completed in 5,28 seconds
+Validating units:
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/ClientFactory.java'
+      [ERROR] Line 10: No source code is available for type com.google.gwt.place.shared.PlaceController; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/ClientFactoryImpl.java'
+      [ERROR] Line 15: No source code is available for type com.google.gwt.place.shared.PlaceController; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/GescipCloud.java'
+      [ERROR] Line 37: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type com.google.gwt.place.shared.PlaceController; did you forget to inherit a required module?
+      [ERROR] Line 46: No source code is available for type com.google.gwt.activity.shared.ActivityMapper; did you forget to inherit a required module?
+      [ERROR] Line 47: No source code is available for type com.google.gwt.activity.shared.ActivityManager; did you forget to inherit a required module?
+      [ERROR] Line 52: No source code is available for type com.google.gwt.place.shared.PlaceHistoryHandler; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/activity/HelloActivity.java'
+      [ERROR] Line 11: No source code is available for type com.google.gwt.activity.shared.AbstractActivity; did you forget to inherit a required module?
+      [ERROR] Line 47: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactUpdatedEvent.java'
+      [ERROR] Line 8: No source code is available for type com.angel.server.Contact; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/mapper/AppActivityMapper.java'
+      [ERROR] Line 10: No source code is available for type com.google.gwt.activity.shared.ActivityMapper; did you forget to inherit a required module?
+      [ERROR] Line 19: No source code is available for type com.google.gwt.activity.shared.Activity; did you forget to inherit a required module?
+      [ERROR] Line 19: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/mapper/AppPlaceHistoryMapper.java'
+      [ERROR] Line 8: No source code is available for type com.google.gwt.place.shared.PlaceHistoryMapper; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/place/HelloPlace.java'
+      [ERROR] Line 6: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+      [ERROR] Line 17: No source code is available for type com.google.gwt.place.shared.PlaceTokenizer<P>; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/presenter/EditContactPresenter.java'
+      [ERROR] Line 31: No source code is available for type com.angel.server.Contact; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/ui/PersonaView.java'
+      [ERROR] Line 12: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/GescipCloud.java'
+      [ERROR] Line 37: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type com.google.gwt.place.shared.PlaceController; did you forget to inherit a required module?
+      [ERROR] Line 46: No source code is available for type com.google.gwt.activity.shared.ActivityMapper; did you forget to inherit a required module?
+      [ERROR] Line 47: No source code is available for type com.google.gwt.activity.shared.ActivityManager; did you forget to inherit a required module?
+      [ERROR] Line 52: No source code is available for type com.google.gwt.place.shared.PlaceHistoryHandler; did you forget to inherit a required module?
+   [ERROR] Unable to find type 'com.angel.client.GescipCloud'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2894 units from cache.
+Compiling...
+   Compilation completed in 4,83 seconds
+Validating units:
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/ClientFactory.java'
+      [ERROR] Line 10: No source code is available for type com.google.gwt.place.shared.PlaceController; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/ClientFactoryImpl.java'
+      [ERROR] Line 15: No source code is available for type com.google.gwt.place.shared.PlaceController; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/GescipCloud.java'
+      [ERROR] Line 37: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type com.google.gwt.place.shared.PlaceController; did you forget to inherit a required module?
+      [ERROR] Line 46: No source code is available for type com.google.gwt.activity.shared.ActivityMapper; did you forget to inherit a required module?
+      [ERROR] Line 47: No source code is available for type com.google.gwt.activity.shared.ActivityManager; did you forget to inherit a required module?
+      [ERROR] Line 52: No source code is available for type com.google.gwt.place.shared.PlaceHistoryHandler; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/activity/HelloActivity.java'
+      [ERROR] Line 11: No source code is available for type com.google.gwt.activity.shared.AbstractActivity; did you forget to inherit a required module?
+      [ERROR] Line 47: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactUpdatedEvent.java'
+      [ERROR] Line 8: No source code is available for type com.angel.server.Contact; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/mapper/AppActivityMapper.java'
+      [ERROR] Line 10: No source code is available for type com.google.gwt.activity.shared.ActivityMapper; did you forget to inherit a required module?
+      [ERROR] Line 19: No source code is available for type com.google.gwt.activity.shared.Activity; did you forget to inherit a required module?
+      [ERROR] Line 19: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/mapper/AppPlaceHistoryMapper.java'
+      [ERROR] Line 8: No source code is available for type com.google.gwt.place.shared.PlaceHistoryMapper; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/place/HelloPlace.java'
+      [ERROR] Line 6: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+      [ERROR] Line 17: No source code is available for type com.google.gwt.place.shared.PlaceTokenizer<P>; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/presenter/EditContactPresenter.java'
+      [ERROR] Line 31: No source code is available for type com.angel.server.Contact; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/ui/PersonaView.java'
+      [ERROR] Line 12: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/GescipCloud.java'
+      [ERROR] Line 37: No source code is available for type com.google.gwt.place.shared.Place; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type com.google.gwt.place.shared.PlaceController; did you forget to inherit a required module?
+      [ERROR] Line 46: No source code is available for type com.google.gwt.activity.shared.ActivityMapper; did you forget to inherit a required module?
+      [ERROR] Line 47: No source code is available for type com.google.gwt.activity.shared.ActivityManager; did you forget to inherit a required module?
+      [ERROR] Line 52: No source code is available for type com.google.gwt.place.shared.PlaceHistoryHandler; did you forget to inherit a required module?
+   [ERROR] Unable to find type 'com.angel.client.GescipCloud'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2894 cached/archived units.  Used 2894 / 2934 units from cache.
+Compiling...
+   Compilation completed in 0,10 seconds
+Invalid Unit: com.angel.client.mapper.AppPlaceHistoryMapper
+Invalid Unit: com.angel.client.GescipCloud
+Invalid Unit: com.angel.client.mapper.AppActivityMapper
+Invalid Unit: com.angel.client.ui.PersonaView
+Invalid Unit: com.angel.client.activity.HelloActivity
+Invalid Unit: com.angel.client.ClientFactoryImpl
+Invalid Unit: com.angel.client.place.HelloPlace
+Invalid Unit: com.angel.client.ClientFactory
+Invalid units found: 8
+Compiling...
+   Compilation completed in 0,02 seconds
+Validating units:
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactUpdatedEvent.java'
+      [ERROR] Line 8: No source code is available for type com.angel.server.Contact; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/presenter/EditContactPresenter.java'
+      [ERROR] Line 31: No source code is available for type com.angel.server.Contact; did you forget to inherit a required module?
+   [ERROR] Errors in 'jar:file:/C:/eclipseGWT/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.5.1/gwt-2.5.1/gwt-user.jar!/org/hibernate/validator/engine/ConstraintViolationImpl_CustomFieldSerializer.java'
+      [ERROR] Line 32: The type ConstraintViolationImpl_CustomFieldSerializer must implement the inherited abstract method CustomFieldSerializer<ConstraintViolationImpl>.deserializeInstance(SerializationStreamReader, ConstraintViolationImpl)
+      [ERROR] Line 32: The type ConstraintViolationImpl_CustomFieldSerializer must implement the inherited abstract method CustomFieldSerializer<ConstraintViolationImpl>.serializeInstance(SerializationStreamWriter, ConstraintViolationImpl)
+      [ERROR] Line 33: ConstraintViolationImpl cannot be resolved to a type
+      [ERROR] Line 37: ConstraintViolationImpl cannot be resolved to a type
+      [ERROR] Line 41: ConstraintViolationImpl cannot be resolved to a type
+      [ERROR] Line 41: No source code is available for type ConstraintViolationImpl; did you forget to inherit a required module?
+      [ERROR] Line 53: ConstraintViolationImpl cannot be resolved to a type
+      [ERROR] Line 73: ConstraintViolationImpl cannot be resolved to a type
+      [ERROR] Line 87: The method deserializeInstance(SerializationStreamReader, ConstraintViolationImpl) of type ConstraintViolationImpl_CustomFieldSerializer must override or implement a supertype method
+      [ERROR] Line 88: ConstraintViolationImpl cannot be resolved to a type
+      [ERROR] Line 98: ConstraintViolationImpl cannot be resolved to a type
+      [ERROR] Line 98: No source code is available for type ConstraintViolationImpl; did you forget to inherit a required module?
+      [ERROR] Line 100: The method instantiate(SerializationStreamReader) from the type ConstraintViolationImpl_CustomFieldSerializer refers to the missing type ConstraintViolationImpl
+      [ERROR] Line 104: The method serializeInstance(SerializationStreamWriter, ConstraintViolationImpl) of type ConstraintViolationImpl_CustomFieldSerializer must override or implement a supertype method
+      [ERROR] Line 105: ConstraintViolationImpl cannot be resolved to a type
+   [ERROR] Errors in 'jar:file:/C:/eclipseGWT/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.5.1/gwt-2.5.1/gwt-user.jar!/org/hibernate/validator/engine/ValidationSupport.java'
+      [ERROR] Line 43: ConstraintViolationImpl cannot be resolved to a type
+      [ERROR] Line 43: No source code is available for type ConstraintViolationImpl; did you forget to inherit a required module?
+   [ERROR] Errors in 'jar:file:/C:/eclipseGWT/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.5.1/gwt-2.5.1/gwt-user.jar!/org/hibernate/validator/super/org/hibernate/validator/constraints/impl/EmailValidator.java'
+      [ERROR] Line 25: No source code is available for type org.hibernate.validator.constraints.Email; did you forget to inherit a required module?
+   [ERROR] Errors in 'jar:file:/C:/eclipseGWT/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.5.1/gwt-2.5.1/gwt-user.jar!/org/hibernate/validator/super/org/hibernate/validator/constraints/impl/ScriptAssertValidator.java'
+      [ERROR] Line 26: No source code is available for type org.hibernate.validator.constraints.Email; did you forget to inherit a required module?
+   [ERROR] Errors in 'jar:file:/C:/eclipseGWT/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.5.1/gwt-2.5.1/gwt-user.jar!/org/hibernate/validator/super/org/hibernate/validator/constraints/impl/URLValidator.java'
+      [ERROR] Line 26: No source code is available for type org.hibernate.validator.constraints.URL; did you forget to inherit a required module?
+   [ERROR] Errors in 'jar:file:/C:/eclipseGWT/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.5.1/gwt-2.5.1/gwt-user.jar!/org/hibernate/validator/super/org/hibernate/validator/engine/PathImpl.java'
+      [ERROR] Line 72: NodeImpl cannot be resolved to a type
+      [ERROR] Line 72: NodeImpl cannot be resolved to a type
+      [ERROR] Line 84: NodeImpl cannot be resolved to a type
+      [ERROR] Line 95: NodeImpl cannot be resolved to a type
+      [ERROR] Line 127: NodeImpl cannot be resolved to a type
+      [ERROR] Line 127: No source code is available for type NodeImpl; did you forget to inherit a required module?
+      [ERROR] Line 131: NodeImpl cannot be resolved to a type
+      [ERROR] Line 202: NodeImpl cannot be resolved to a type
+      [ERROR] Line 202: NodeImpl cannot be resolved to a type
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383559491827.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383559491827.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383559491827_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383559493591.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383559493591.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383559493591_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl.ContactsViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383559497570.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383559497570.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ContactsViewImpl_ContactsViewImplUiBinderImpl_designTime1383559497570_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2938 units from cache.
+Compiling...
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 10,96 seconds
+Validating units:
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/AlumnoLoadedEvent.java'
+      [ERROR] Line 9: No source code is available for type com.angel.server.Contact; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/event/ContactUpdatedEvent.java'
+      [ERROR] Line 8: No source code is available for type com.angel.server.Contact; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/informatica/Dropbox/workspaceGwt/GescipCloud/src/com/angel/client/presenter/EditContactPresenter.java'
+      [ERROR] Line 31: No source code is available for type com.angel.server.Contact; did you forget to inherit a required module?
+   [ERROR] Errors in 'jar:file:/C:/eclipseGWT/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.5.1/gwt-2.5.1/gwt-user.jar!/org/hibernate/validator/engine/ConstraintViolationImpl_CustomFieldSerializer.java'
+      [ERROR] Line 32: The type ConstraintViolationImpl_CustomFieldSerializer must implement the inherited abstract method CustomFieldSerializer<ConstraintViolationImpl>.deserializeInstance(SerializationStreamReader, ConstraintViolationImpl)
+      [ERROR] Line 32: The type ConstraintViolationImpl_CustomFieldSerializer must implement the inherited abstract method CustomFieldSerializer<ConstraintViolationImpl>.serializeInstance(SerializationStreamWriter, ConstraintViolationImpl)
+      [ERROR] Line 33: ConstraintViolationImpl cannot be resolved to a type
+      [ERROR] Line 37: ConstraintViolationImpl cannot be resolved to a type
+      [ERROR] Line 41: ConstraintViolationImpl cannot be resolved to a type
+      [ERROR] Line 41: No source code is available for type ConstraintViolationImpl; did you forget to inherit a required module?
+      [ERROR] Line 53: ConstraintViolationImpl cannot be resolved to a type
+      [ERROR] Line 73: ConstraintViolationImpl cannot be resolved to a type
+      [ERROR] Line 87: The method deserializeInstance(SerializationStreamReader, ConstraintViolationImpl) of type ConstraintViolationImpl_CustomFieldSerializer must override or implement a supertype method
+      [ERROR] Line 88: ConstraintViolationImpl cannot be resolved to a type
+      [ERROR] Line 98: ConstraintViolationImpl cannot be resolved to a type
+      [ERROR] Line 98: No source code is available for type ConstraintViolationImpl; did you forget to inherit a required module?
+      [ERROR] Line 100: The method instantiate(SerializationStreamReader) from the type ConstraintViolationImpl_CustomFieldSerializer refers to the missing type ConstraintViolationImpl
+      [ERROR] Line 104: The method serializeInstance(SerializationStreamWriter, ConstraintViolationImpl) of type ConstraintViolationImpl_CustomFieldSerializer must override or implement a supertype method
+      [ERROR] Line 105: ConstraintViolationImpl cannot be resolved to a type
+   [ERROR] Errors in 'jar:file:/C:/eclipseGWT/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.5.1/gwt-2.5.1/gwt-user.jar!/org/hibernate/validator/engine/ValidationSupport.java'
+      [ERROR] Line 43: ConstraintViolationImpl cannot be resolved to a type
+      [ERROR] Line 43: No source code is available for type ConstraintViolationImpl; did you forget to inherit a required module?
+   [ERROR] Errors in 'jar:file:/C:/eclipseGWT/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.5.1/gwt-2.5.1/gwt-user.jar!/org/hibernate/validator/super/org/hibernate/validator/constraints/impl/EmailValidator.java'
+      [ERROR] Line 25: No source code is available for type org.hibernate.validator.constraints.Email; did you forget to inherit a required module?
+   [ERROR] Errors in 'jar:file:/C:/eclipseGWT/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.5.1/gwt-2.5.1/gwt-user.jar!/org/hibernate/validator/super/org/hibernate/validator/constraints/impl/ScriptAssertValidator.java'
+      [ERROR] Line 26: No source code is available for type org.hibernate.validator.constraints.Email; did you forget to inherit a required module?
+   [ERROR] Errors in 'jar:file:/C:/eclipseGWT/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.5.1/gwt-2.5.1/gwt-user.jar!/org/hibernate/validator/super/org/hibernate/validator/constraints/impl/URLValidator.java'
+      [ERROR] Line 26: No source code is available for type org.hibernate.validator.constraints.URL; did you forget to inherit a required module?
+   [ERROR] Errors in 'jar:file:/C:/eclipseGWT/eclipse/plugins/com.google.gwt.eclipse.sdkbundle_2.5.1/gwt-2.5.1/gwt-user.jar!/org/hibernate/validator/super/org/hibernate/validator/engine/PathImpl.java'
+      [ERROR] Line 72: NodeImpl cannot be resolved to a type
+      [ERROR] Line 72: NodeImpl cannot be resolved to a type
+      [ERROR] Line 84: NodeImpl cannot be resolved to a type
+      [ERROR] Line 95: NodeImpl cannot be resolved to a type
+      [ERROR] Line 127: NodeImpl cannot be resolved to a type
+      [ERROR] Line 127: No source code is available for type NodeImpl; did you forget to inherit a required module?
+      [ERROR] Line 131: NodeImpl cannot be resolved to a type
+      [ERROR] Line 202: NodeImpl cannot be resolved to a type
+      [ERROR] Line 202: NodeImpl cannot be resolved to a type
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ListaAlumnoViewImpl.AlumnoViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ListaAlumnoViewImpl_AlumnoViewImplUiBinderImpl_designTime1383580451496.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ListaAlumnoViewImpl_AlumnoViewImplUiBinderImpl_designTime1383580451496.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ListaAlumnoViewImpl_AlumnoViewImplUiBinderImpl_designTime1383580451496_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ListaAlumnoViewImpl.AlumnoViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ListaAlumnoViewImpl_AlumnoViewImplUiBinderImpl_designTime1383580451975.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ListaAlumnoViewImpl_AlumnoViewImplUiBinderImpl_designTime1383580451975.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ListaAlumnoViewImpl_AlumnoViewImplUiBinderImpl_designTime1383580451975_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ListaAlumnoViewImpl.AlumnoViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ListaAlumnoViewImpl_AlumnoViewImplUiBinderImpl_designTime1383580506269.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ListaAlumnoViewImpl_AlumnoViewImplUiBinderImpl_designTime1383580506269.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ListaAlumnoViewImpl_AlumnoViewImplUiBinderImpl_designTime1383580506269_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ListaAlumnoViewImpl.AlumnoViewImplUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ListaAlumnoViewImpl_AlumnoViewImplUiBinderImpl_designTime1383580513245.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.angel.client.ui.ListaAlumnoViewImpl_AlumnoViewImplUiBinderImpl_designTime1383580513245.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.angel.client.ui.ListaAlumnoViewImpl_AlumnoViewImplUiBinderImpl_designTime1383580513245_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2725 units from cache.
+Compiling...
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 11,10 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2725 cached/archived units.  Used 2725 / 2725 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2725 cached/archived units.  Used 2725 / 2725 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2725 units from cache.
+Compiling...
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 14,15 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2725 cached/archived units.  Used 2725 / 2725 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2725 cached/archived units.  Used 2725 / 2725 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2725 units from cache.
+Compiling...
+   50% complete (ETR: 5 seconds)
+   50% complete (ETR: 5 seconds)
+   50% complete (ETR: 5 seconds)
+   50% complete (ETR: 5 seconds)
+   50% complete (ETR: 5 seconds)
+   50% complete (ETR: 5 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 9,77 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2725 cached/archived units.  Used 2725 / 2725 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2725 cached/archived units.  Used 2725 / 2725 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
