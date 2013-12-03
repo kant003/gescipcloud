@@ -20,9 +20,9 @@ public class ObservacionesAlumnoMapper implements ActivityMapper {
         @Override
         public Activity getActivity(Place place) {
        
-        	   if (place instanceof AlumnoPlace)
-               		return new ListaAlumnoActivity((AlumnoPlace) place, clientFactory);
-        	   else if (place instanceof SeleccionAlumnoPlace)
+        	/*   if (place instanceof AlumnoPlace)
+               		return new ListaAlumnoActivity((AlumnoPlace) place, clientFactory);*/
+        	   if (place instanceof SeleccionAlumnoPlace)
               		return new ListaObservacionesAlumnoActivity((SeleccionAlumnoPlace) place, clientFactory);
              
            

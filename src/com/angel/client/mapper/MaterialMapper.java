@@ -22,9 +22,11 @@ public class MaterialMapper implements ActivityMapper {
         @Override
         public Activity getActivity(Place place) {
        
-        	   if (place instanceof AlumnoPlace)
+        	/*   if (place instanceof AlumnoPlace)
                		return new ListaAlumnoActivity((AlumnoPlace) place, clientFactory);
-        	   else if (place instanceof SeleccionMatriculaPlace)
+        	  */
+        	
+        	    if (place instanceof SeleccionMatriculaPlace)
               		return new ListaMaterialActivity((SeleccionMatriculaPlace) place, clientFactory);
              
            

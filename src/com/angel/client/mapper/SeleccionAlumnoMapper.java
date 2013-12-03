@@ -9,6 +9,7 @@ import com.angel.client.activity.ListaObservacionesAlumnoActivity;
 import com.angel.client.place.AlumnoPlace;
 import com.angel.client.place.EditMatriculaPlace;
 import com.angel.client.place.SeleccionAlumnoPlace;
+import com.angel.client.place.SeleccionMatriculaPlace;
 import com.google.gwt.activity.shared.Activity;
 import com.google.gwt.activity.shared.ActivityMapper;
 import com.google.gwt.place.shared.Place;
@@ -36,7 +37,8 @@ public class SeleccionAlumnoMapper implements ActivityMapper {
      */
         	  else if (place instanceof EditMatriculaPlace)
                   		return new EditMatriculaActivity((EditMatriculaPlace)place, clientFactory);
-           
+        	 
+
            /*     if (place instanceof ViewAlumnosPlace)
                		return null;
                 else  if (place instanceof SeleccionAlumnoPlace)
